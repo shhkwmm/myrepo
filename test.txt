@@ -7,4 +7,4 @@
 ●マージコミットによるマージ
 ■ブラウザ上から書き込み
 
-②developにcommit
+②developにcommit(2)
