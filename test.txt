@@ -14,3 +14,5 @@ aaa
 
 リベース
 master
+
+squashのために追加
